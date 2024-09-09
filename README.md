@@ -34,7 +34,7 @@ Feel free to explore and contribute!
 | Cybersecurity Assesment                       |
 
 
-## Projects and Tools
+## Highlighted Projects and Tools
 #### 1. CTF Assessment Report
 Description: In this project, I detailed my security assessment and findings from a Capture The Flag (CTF) event. The report includes vulnerability identification and mitigation suggestions.
 
@@ -44,7 +44,15 @@ Description: In this project, I detailed my security assessment and findings fro
 
 🔗 GitHub Link: [CTF Assessment Report](https://github.com/MertKRC/CTF-Assessment-Report)
 
-#### 2. OTP(ONE TIME PAD) Cryptography
+#### 2. Turc Export
+Description: A comprehensive project aimed at facilitating international trade between Turkey and African countries, focusing on the export of consumable goods such as cleaning supplies, paper cups, and napkins. The project highlights the integration of web technologies to establish a secure and user-friendly platform. Security practices include vulnerability assessments and improvements, enhancing the system’s robustness against potential threats. The project also incorporates technologies like HTML, CSS, JavaScript, and PHP, with Cloudflare Pages ensuring a reliable deployment environment.
+
+###### Quick Preview
+![Turc-Export Run](https://github.com/MertKRC/Turc-Export/blob/main/images/TurcExportGif.gif)
+
+🔗 GitHub Link: [Turc-Export](https://github.com/MertKRC/Turc-Export/)
+
+#### 3. OTP(ONE TIME PAD) Cryptography
 Description: A project focused on implementing one-time pad (OTP) encryption. This cryptographic method is known for its strong security, as each character is encrypted with a unique key. The project demonstrates the principles of OTP and includes examples of encrypting and decrypting messages.
 
 ###### Quick Preview
@@ -53,7 +61,7 @@ Description: A project focused on implementing one-time pad (OTP) encryption. Th
 
 🔗 GitHub Link: [OTP-Cryptography](https://github.com/MertKRC/OTP-Cyrptography)
 
-#### 3. Horse-Race
+#### 4. Horse-Race
 Description: A simulation project that models a horse race. It includes features such as random race outcomes, tracking the performance of each horse, and displaying the results in an interactive format. The project showcases programming skills in creating simulations and handling dynamic data.
 
 ###### Quick Preview
